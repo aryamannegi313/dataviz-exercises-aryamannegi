@@ -1,16 +1,22 @@
 
-# Lecture 09 - Streamlit Dashboard
+# Week 9 - Streamlit Dashboard
 
-This exercise extends the World Happiness Dashboard
-with a diverging continuous colour scale chart.
+## Exercise
+World Happiness Dashboard using Streamlit and Plotly.
 
-The chart compares each country's happiness score
-with the global average and annotates the midpoint.
+## Additional Chart
+I created a diverging horizontal bar chart comparing
+each country's happiness score with the global average.
 
-Tools used:
-- Google Colab
+- Red: Below average happiness
+- Yellow: Near average happiness
+- Green: Above average happiness
+- Midpoint: Global average, labelled with an annotation
+
+## Tools Used
 - Python
+- Google Colab
 - Pandas
 - Plotly
-- Streamlit
 - GitHub
+- Streamlit Cloud
